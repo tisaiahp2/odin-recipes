@@ -1,1 +1,1 @@
-# odin-recipes
+This is a HTML project based upon the fundamentals of The Odin Project, it is my first step into the world of coding!# odin-recipes
